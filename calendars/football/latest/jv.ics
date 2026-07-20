@@ -1,0 +1,68 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//St Andrews Calendars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:St. Andrew's JV Football — Fall 2026
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:football-jv-20260820-park-place@st-andrews-calendars
+DTSTAMP:20260720T150000Z
+DTSTART;TZID=America/Chicago:20260820T183000
+DTEND;TZID=America/Chicago:20260820T200000
+SUMMARY:St. Andrew's JV Football vs. Park Place
+LOCATION:St. Andrew's Episcopal School – North Campus\, 370 Old Agency Road\, Ridgeland\, MS 39157
+SEQUENCE:0
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:football-jv-20260825-mclaurin@st-andrews-calendars
+DTSTAMP:20260720T150000Z
+DTSTART;TZID=America/Chicago:20260825T173000
+DTEND;TZID=America/Chicago:20260825T190000
+SUMMARY:St. Andrew's JV Football at McLaurin
+LOCATION:McLaurin High School\, 130 Tiger Drive\, Florence\, MS 39073
+SEQUENCE:0
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:football-jv-20260908-st-aloysius-home@st-andrews-calendars
+DTSTAMP:20260720T150000Z
+DTSTART;TZID=America/Chicago:20260908T180000
+DTEND;TZID=America/Chicago:20260908T193000
+SUMMARY:St. Andrew's JV Football vs. St. Aloysius
+LOCATION:St. Andrew's Episcopal School – North Campus\, 370 Old Agency Road\, Ridgeland\, MS 39157
+SEQUENCE:0
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:football-jv-20260917-st-aloysius-away@st-andrews-calendars
+DTSTAMP:20260720T150000Z
+DTSTART;TZID=America/Chicago:20260917T180000
+DTEND;TZID=America/Chicago:20260917T193000
+SUMMARY:St. Andrew's JV Football at St. Aloysius
+LOCATION:St. Aloysius High School\, 1900 Grove Street\, Vicksburg\, MS 39183
+SEQUENCE:0
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:football-jv-20261001-east-rankin@st-andrews-calendars
+DTSTAMP:20260720T150000Z
+DTSTART;TZID=America/Chicago:20261001T183000
+DTEND;TZID=America/Chicago:20261001T200000
+SUMMARY:St. Andrew's JV Football vs. East Rankin
+LOCATION:St. Andrew's Episcopal School – North Campus\, 370 Old Agency Road\, Ridgeland\, MS 39157
+SEQUENCE:0
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:football-jv-20261008-christ-covenant@st-andrews-calendars
+DTSTAMP:20260720T150000Z
+DTSTART;TZID=America/Chicago:20261008T183000
+DTEND;TZID=America/Chicago:20261008T200000
+SUMMARY:St. Andrew's JV Football at Christ Covenant
+LOCATION:Christ Covenant School\, 752 South Pear Orchard Road\, Ridgeland\, MS 39157
+SEQUENCE:0
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
