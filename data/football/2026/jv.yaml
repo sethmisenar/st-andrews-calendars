@@ -1,0 +1,40 @@
+calendar:
+  id: football-jv
+  name: "St. Andrew's JV Football — Fall 2026"
+  category: football
+  season: "2026"
+  timezone: America/Chicago
+  output: jv.ics
+  default_duration_minutes: 90
+
+events:
+  - id: park-place-home
+    date: 2026-08-20
+    time: "18:30"
+    title: "St. Andrew's JV Football vs. Park Place"
+    location: "St. Andrew's Episcopal School – North Campus, 370 Old Agency Road, Ridgeland, MS 39157"
+  - id: mclaurin-away
+    date: 2026-08-25
+    time: "17:30"
+    title: "St. Andrew's JV Football at McLaurin"
+    location: "McLaurin High School, 130 Tiger Drive, Florence, MS 39073"
+  - id: st-aloysius-home
+    date: 2026-09-08
+    time: "18:00"
+    title: "St. Andrew's JV Football vs. St. Aloysius"
+    location: "St. Andrew's Episcopal School – North Campus, 370 Old Agency Road, Ridgeland, MS 39157"
+  - id: st-aloysius-away
+    date: 2026-09-17
+    time: "18:00"
+    title: "St. Andrew's JV Football at St. Aloysius"
+    location: "St. Aloysius High School, 1900 Grove Street, Vicksburg, MS 39183"
+  - id: east-rankin-home
+    date: 2026-10-01
+    time: "18:30"
+    title: "St. Andrew's JV Football vs. East Rankin"
+    location: "St. Andrew's Episcopal School – North Campus, 370 Old Agency Road, Ridgeland, MS 39157"
+  - id: christ-covenant-away
+    date: 2026-10-08
+    time: "18:30"
+    title: "St. Andrew's JV Football at Christ Covenant"
+    location: "Christ Covenant School, 752 South Pear Orchard Road, Ridgeland, MS 39157"
