@@ -1,0 +1,100 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//St Andrews Calendars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:St. Andrew's 5/6 Football — Fall 2026
+X-WR-TIMEZONE:America/Chicago
+BEGIN:VEVENT
+UID:football-5-6-20260820-park-place@st-andrews-calendars
+DTSTAMP:20260720T150000Z
+DTSTART;TZID=America/Chicago:20260820T170000
+DTEND;TZID=America/Chicago:20260820T183000
+SUMMARY:St. Andrew's 5/6 Football vs. Park Place
+LOCATION:St. Andrew's Episcopal School – North Campus\, 370 Old Agency Road\, Ridgeland\, MS 39157
+SEQUENCE:0
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:football-5-6-20260822-ccs-jamboree@st-andrews-calendars
+DTSTAMP:20260720T150000Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:St. Andrew's 5/6 Football at CCS Jamboree — Time TBD
+LOCATION:Christ Covenant School\, 752 South Pear Orchard Road\, Ridgeland\, MS 39157
+DESCRIPTION:Start time is TBD.
+SEQUENCE:0
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:football-5-6-20260825-mclaurin@st-andrews-calendars
+DTSTAMP:20260720T150000Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+SUMMARY:St. Andrew's 5/6 Football at McLaurin — Time TBD
+LOCATION:McLaurin High School\, 130 Tiger Drive\, Florence\, MS 39073
+DESCRIPTION:Start time is TBD.
+SEQUENCE:0
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:football-5-6-20260901-fpds@st-andrews-calendars
+DTSTAMP:20260720T150000Z
+DTSTART;TZID=America/Chicago:20260901T183000
+DTEND;TZID=America/Chicago:20260901T200000
+SUMMARY:St. Andrew's 5/6 Football at First Pres Day School
+LOCATION:Belhaven Bowl Stadium\, 1500 Peachtree Street\, Jackson\, MS 39202
+SEQUENCE:0
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:football-5-6-20260908-st-aloysius-home@st-andrews-calendars
+DTSTAMP:20260720T150000Z
+DTSTART;TZID=America/Chicago:20260908T170000
+DTEND;TZID=America/Chicago:20260908T183000
+SUMMARY:St. Andrew's 5/6 Football vs. St. Aloysius
+LOCATION:St. Andrew's Episcopal School – North Campus\, 370 Old Agency Road\, Ridgeland\, MS 39157
+SEQUENCE:0
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:football-5-6-20260917-st-aloysius-away@st-andrews-calendars
+DTSTAMP:20260720T150000Z
+DTSTART;TZID=America/Chicago:20260917T170000
+DTEND;TZID=America/Chicago:20260917T183000
+SUMMARY:St. Andrew's 5/6 Football at St. Aloysius
+LOCATION:St. Aloysius High School\, 1900 Grove Street\, Vicksburg\, MS 39183
+SEQUENCE:0
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:football-5-6-20260924-st-anthony@st-andrews-calendars
+DTSTAMP:20260720T150000Z
+DTSTART;TZID=America/Chicago:20260924T170000
+DTEND;TZID=America/Chicago:20260924T183000
+SUMMARY:St. Andrew's 5/6 Football vs. St. Anthony
+LOCATION:St. Andrew's Episcopal School – North Campus\, 370 Old Agency Road\, Ridgeland\, MS 39157
+SEQUENCE:0
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:football-5-6-20261001-east-rankin@st-andrews-calendars
+DTSTAMP:20260720T150000Z
+DTSTART;TZID=America/Chicago:20261001T170000
+DTEND;TZID=America/Chicago:20261001T183000
+SUMMARY:St. Andrew's 5/6 Football vs. East Rankin
+LOCATION:St. Andrew's Episcopal School – North Campus\, 370 Old Agency Road\, Ridgeland\, MS 39157
+SEQUENCE:0
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:football-5-6-20261008-christ-covenant@st-andrews-calendars
+DTSTAMP:20260720T150000Z
+DTSTART;TZID=America/Chicago:20261008T170000
+DTEND;TZID=America/Chicago:20261008T183000
+SUMMARY:St. Andrew's 5/6 Football at Christ Covenant
+LOCATION:Christ Covenant School\, 752 South Pear Orchard Road\, Ridgeland\, MS 39157
+SEQUENCE:0
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
